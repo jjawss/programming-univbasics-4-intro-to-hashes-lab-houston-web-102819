@@ -5,8 +5,8 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
-  return valid_hash {
-    jon => "Stark"
+  return valid_hash = {
+    jon:"Stark"
   }
 end
 
