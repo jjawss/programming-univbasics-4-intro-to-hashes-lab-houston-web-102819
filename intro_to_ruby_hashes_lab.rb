@@ -45,4 +45,5 @@ def update_counting_hash(hash, key)
   else 
     hash.default = 1
   end
+  return hash
 end
